@@ -14,6 +14,7 @@ Show some ❤️ and star the repo to support the project Screenshots
 <img src="https://user-images.githubusercontent.com/55958579/114081561-56ae2080-98ca-11eb-8f05-ff4f0b249b33.jpeg" width="300px" height="600px" >
 </p>
 This project is about the UI and Animations.
+
 By using these I have  made a clock  and some 
 other cool stuffs. For these I have used custom paint  
 . I have  used Neumorphic Design to make it more Beautiful
