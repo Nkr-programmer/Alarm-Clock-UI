@@ -1,4 +1,8 @@
 # Alarm-Clock-UI
+Building a Link AND Library in Flutter.
+
+Show some ❤️ and star the repo to support the project Screenshots
+
 This project is about the UI and Animations.
 By using these I have  made a clock  and some 
 other cool stuffs. For these I have used custom paint  
