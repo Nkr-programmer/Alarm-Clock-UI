@@ -3,11 +3,15 @@ Building a Alarm-Clock-UI in Flutter.
 
 Show some ❤️ and star the repo to support the project Screenshots
 
-<img src="https://user-images.githubusercontent.com/55958579/114072615-19449580-98c0-11eb-8ecb-f0bcc4974055.jpg" width="300px" height="600px" >
 <p float="left">
-<img src="https://user-images.githubusercontent.com/55958579/114072720-32e5dd00-98c0-11eb-84cf-2c9e434a5bf3.jpg" width="300px" height="600px" />
-<img src="https://user-images.githubusercontent.com/55958579/114072886-53ae3280-98c0-11eb-98c6-f0f748a47678.jpg" width="300px" height="600px" />
-<img src="https://user-images.githubusercontent.com/55958579/114073004-72acc480-98c0-11eb-8752-64a54fd706c6.jpg" width="300px" height="600px"> 
+<img src="https://user-images.githubusercontent.com/55958579/114079541-f1f1c680-98c7-11eb-9dec-08221700dbb7.jpg" width="300px" height="600px" />
+<img src="https://user-images.githubusercontent.com/55958579/114079552-f74f1100-98c7-11eb-8866-1258b58dbcc0.jpg" width="300px" height="600px" >
+</p>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/55958579/114079680-1e0d4780-98c8-11eb-80f1-4f332ee5eeef.jpg" width="300px" height="600px" />
+<img src="https://web.whatsapp.com/cc02babd-bd11-4aad-80e6-b42e88ccece6" width="300px" height="600px" />
+<img src="https://web.whatsapp.com/00f45b66-70ef-4f63-8c00-2398f6786de7" width="300px" height="600px" />
+<img src="https://web.whatsapp.com/e3804aee-2afe-4f5a-b32d-c6521eae905f" width="300px" height="600px" >
 </p>
 This project is about the UI and Animations.
 By using these I have  made a clock  and some 
