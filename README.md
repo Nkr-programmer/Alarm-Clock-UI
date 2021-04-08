@@ -9,9 +9,9 @@ Show some ❤️ and star the repo to support the project Screenshots
 </p>
 <p float="left">
 <img src="https://user-images.githubusercontent.com/55958579/114079680-1e0d4780-98c8-11eb-80f1-4f332ee5eeef.jpg" width="300px" height="600px" />
-<img src="https://web.whatsapp.com/cc02babd-bd11-4aad-80e6-b42e88ccece6" width="300px" height="600px" />
-<img src="https://web.whatsapp.com/00f45b66-70ef-4f63-8c00-2398f6786de7" width="300px" height="600px" />
-<img src="https://web.whatsapp.com/e3804aee-2afe-4f5a-b32d-c6521eae905f" width="300px" height="600px" >
+<img src="blob:https://web.whatsapp.com/109bee77-a2c6-44de-9469-17a1d23d7306" width="300px" height="600px" />
+<img src="blob:https://web.whatsapp.com/00f45b66-70ef-4f63-8c00-2398f6786de7" width="300px" height="600px" />
+<img src="blob:https://web.whatsapp.com/e3804aee-2afe-4f5a-b32d-c6521eae905f" width="300px" height="600px" >
 </p>
 This project is about the UI and Animations.
 By using these I have  made a clock  and some 
